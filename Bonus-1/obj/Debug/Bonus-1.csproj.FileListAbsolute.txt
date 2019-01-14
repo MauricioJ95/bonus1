@@ -1,0 +1,7 @@
+C:\git\Bonuses\Bonus-1\Bonus-1\bin\Debug\Bonus-1.exe.config
+C:\git\Bonuses\Bonus-1\Bonus-1\bin\Debug\Bonus-1.exe
+C:\git\Bonuses\Bonus-1\Bonus-1\bin\Debug\Bonus-1.pdb
+C:\git\Bonuses\Bonus-1\Bonus-1\obj\Debug\Bonus-1.csprojAssemblyReference.cache
+C:\git\Bonuses\Bonus-1\Bonus-1\obj\Debug\Bonus-1.csproj.CoreCompileInputs.cache
+C:\git\Bonuses\Bonus-1\Bonus-1\obj\Debug\Bonus-1.exe
+C:\git\Bonuses\Bonus-1\Bonus-1\obj\Debug\Bonus-1.pdb
