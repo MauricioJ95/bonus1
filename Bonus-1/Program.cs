@@ -75,14 +75,11 @@ namespace Bonus_1
                 {
                     Console.WriteLine("Letter Grade: A");
                 }
-                if (i >= 98 && i <= 100)
+                else if (i >= 98 && i <= 100)
                 {
                     Console.WriteLine("Letter Grade: A+");
                 }
-                else
-                {
-                }
-
+              
                 Console.WriteLine("Continue? (y/n)");
                 input = Console.ReadLine();
                 shouldContinue = input == "y";
