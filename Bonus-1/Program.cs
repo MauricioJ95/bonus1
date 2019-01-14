@@ -31,47 +31,47 @@ namespace Bonus_1
                 {
                     Console.WriteLine("Letter Grade: F");
                 }
-                if (i >= 61 && i <= 62)
+                else if (i >= 61 && i <= 62)
                 {
                     Console.WriteLine("Letter Grade: D-");
                 }
-                if (i >= 63 && i <= 64)
+                else if (i >= 63 && i <= 64)
                 {
                     Console.WriteLine("Letter Grade: D");
                 }
-                if (i >= 65 && i <= 66)
+                else if (i >= 65 && i <= 66)
                 {
                     Console.WriteLine("Letter Grade: D+");
                 }
-                if (i >= 67 && i <= 71)
+                else if (i >= 67 && i <= 71)
                 {
                     Console.WriteLine("Letter Grade: C-");
                 }
-                if (i >= 72 && i <= 75)
+                else if (i >= 72 && i <= 75)
                 {
                     Console.WriteLine("Letter Grade: C");
                 }
-                if (i >= 76 && i <= 79)
+                else if (i >= 76 && i <= 79)
                 {
                     Console.WriteLine("Letter Grade: C+");
                 }
-                if (i >= 80 && i <= 82)
+                else if (i >= 80 && i <= 82)
                 {
                     Console.WriteLine("Letter Grade: B-");
                 }
-                if (i >= 83 && i <= 85)
+                else if (i >= 83 && i <= 85)
                 {
                     Console.WriteLine("Letter Grade: B");
                 }
-                if (i >= 86 && i <= 87)
+                else if (i >= 86 && i <= 87)
                 {
                     Console.WriteLine("Letter Grade: B+");
                 }
-                if (i >= 88 && i <= 92)
+                else if (i >= 88 && i <= 92)
                 {
                     Console.WriteLine("Letter Grade: A-");
                 }
-                if (i >= 93 && i <= 97)
+                else if (i >= 93 && i <= 97)
                 {
                     Console.WriteLine("Letter Grade: A");
                 }
